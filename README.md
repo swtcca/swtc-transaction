@@ -1,4 +1,4 @@
-# The COMMUNITY SWTC JavaScript Library for DEVELOPERS - Transaction
+# swtc-transaction
 
 ## swtc-transaction is seprated package from swtc-lib (jingtum-lib)
 
@@ -12,6 +12,7 @@
 
 ## Changes
 
+- add contract operations
 - add method signPromise() and submitPromise()
 - typescript OrderBook
 - typescript support
